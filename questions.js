@@ -42,7 +42,15 @@ var answers_rounds = [
 			['Cgreat cake/ sweetbread', 9],
 			['drinks', 12], 
 			['Cleaning', 4],
-	],
+	],[
+			['Face/Smile/Eyes', 36],
+			['Bumpa', 22],
+			['Hips/Shape', 18],
+			['Bubbies', 18],
+			['Attitude', 6], 
+			
+	].
+	
 ];
 
 
