@@ -27,13 +27,13 @@ var questions_rounds = [
 // format: dimension 1 = round, dimension 2 = question, dimension 3 = [answer, points]
 var answers_rounds = [
 	[
-		['Jackass/Ass', 14],
-		['Idiot', 8],
-		['Johnny', 13],
 		['Cunt', 50],
-		['Shotta/Boss', 3], 
-		['Joker', 4],
+		['Jackass/Ass', 14],
+		['Johnny', 13],
+		['Idiot', 8],
 		['Cutie', 5],
+		['Joker', 4],
+		['Shotta/Boss', 3], 
 		['Dog/Goat', 3],
 	],[
 			['Ham', 68],
