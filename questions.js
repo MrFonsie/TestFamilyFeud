@@ -50,7 +50,7 @@ var answers_rounds = [
 			['Bubbies', 18],
 			['Attitude', 6], 
 			
-	].
+	],
 	
 ];
 
